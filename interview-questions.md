@@ -49,7 +49,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Researched answer: RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries, a tool designed to easily manage the installation of gems, and a server for distributing them.
 
 
-5. What are primary keys? Why are they important?
+## 5. What are primary keys? Why are they important?
 
   Your answer: 
   - The primary key is the unique name or id number of the database column. 
@@ -64,7 +64,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 ## Looking Ahead: Terms for Next Week
 Research and define the following terms to the best of your ability.
 
-1. RESTful routes:
+### 1. RESTful routes:
 ```
 A RESTful route is a route that provides mapping from HTTP verbs (get, post, put, delete, patch) 
 to controller CRUD actions (create, read, update, delete). 
@@ -72,14 +72,14 @@ Instead of relying solely on the URL to indicate what site to visit,
 a RESTful route depends on the HTTP verb and the URL.
 ```
 
-2. JSON:
+### 2. JSON:
 ```
 JSON is an open standard file format and data interchange format 
 that uses human-readable text to store 
 and transmit data objects consisting of attribute–value pairs and arrays.
 ```
 
-3. ERB:
+### 3. ERB:
 ```
 ERB stands for "Embedded Ruby". 
 A .html.erb or .erb.html file is HTML with Ruby code embedded in; 
@@ -87,7 +87,7 @@ Rails will evaluate the Ruby to add content to the file dynamically,
 and will output a "pure" HTML file for rendering.
 ```
 
-4. Params:
+### 4. Params:
 ```
 In HTTP/HTML, the Params are really just a series of key-value pairs 
 where the key and the value are strings, 
@@ -95,7 +95,7 @@ but Ruby on Rails has a special syntax for making the Params be a hash
 with hashes inside. For example, if the user's browser requested.
 ```
 
-5. API:
+### 5. API:
 ```
 API is the acronym for Application Programming Interface, 
 which is a software intermediary that allows two applications to talk to each other.
